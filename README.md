@@ -34,6 +34,7 @@ Developed an end-to-end banking analytics solution to analyze customer demograph
 Banking-Analytics-MySQL-PowerBI/
 │
 ├── Bankinganalyticsdeliverables.sql   ← Complete SQL file (all 5 sections)
+├── BankingAnalyticsDashboard.pbix     ← Power BI Dashboard file (open in Power BI Desktop)
 ├── dashboard_executive.png            ← Power BI Page 1: Executive Overview
 ├── dashboard_risk.png                 ← Power BI Page 2: Risk & Data Quality
 └── README.md                          ← This file
